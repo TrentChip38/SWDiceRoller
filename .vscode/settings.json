@@ -1,0 +1,8 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "idf.pythonInstallPath": "C:\\Users\\trent\\.espressif\\tools\\idf-python\\3.11.2\\python.exe"
+}
