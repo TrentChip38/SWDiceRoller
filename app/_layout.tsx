@@ -1,7 +1,7 @@
 import { Audio } from "expo-av";
 import { Stack } from "expo-router";
 import { useEffect } from "react";
-import { DiceSettingsProvider } from './DiceRoller'; //SettingsContext
+import { DiceSettingsProvider } from '.'; //SettingsContext
 
 export default function RootLayout() {
   useEffect(() => {

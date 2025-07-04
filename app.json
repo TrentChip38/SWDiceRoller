@@ -46,8 +46,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "e4b7b2a4-3f75-4e0f-9709-75bec738d3ef"
+        "projectId": "47fb2564-3fc4-4a39-90bc-8e3a387f76cd"
       }
-    }
+    },
+    "owner": "trentchipman"
   }
 }
